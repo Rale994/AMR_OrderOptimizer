@@ -1,0 +1,2 @@
+/usr/bin/ar qc libamr_basis.a CMakeFiles/amr_basis.dir/src/amr_interface.cpp.o CMakeFiles/amr_basis.dir/src/amr_task_executors.cpp.o CMakeFiles/amr_basis.dir/src/amr_unit.cpp.o CMakeFiles/amr_basis.dir/src/basic_routines.cpp.o
+/usr/bin/ranlib libamr_basis.a

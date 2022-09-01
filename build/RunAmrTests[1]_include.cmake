@@ -1,0 +1,5 @@
+if(EXISTS "/home/ratko/Desktop/AMR/build/RunAmrTests[1]_tests.cmake")
+  include("/home/ratko/Desktop/AMR/build/RunAmrTests[1]_tests.cmake")
+else()
+  add_test(RunAmrTests_NOT_BUILT RunAmrTests_NOT_BUILT)
+endif()

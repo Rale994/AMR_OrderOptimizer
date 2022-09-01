@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  amr_ex_wts:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    stdin_open: true # Docker run -i
+    tty: true # Docker run -t
+    volumes:
+      # Mount relevant folders into container
+      - ./:/code/amr_ex_wts/
+    network_mode: host
+    # ports:
+    #   - "1883:1883"

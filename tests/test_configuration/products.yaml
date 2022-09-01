@@ -1,0 +1,39 @@
+- id: 1
+  product: "Product 1"
+  parts:
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236
+  - part: "Part B"
+    cx: 550.09924
+    cy: 655.423
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236
+  - part: "Part B"
+    cx: 550.09924
+    cy: 655.423
+- id: 2
+  product: "Product 2"
+  parts:
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236
+- id: 3
+  product: "Product 3"
+  parts:
+  - part: "Part C"
+    cx: 281.39413
+    cy: 68.39627
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236
+  - part: "Part A"
+    cx: 791.86304
+    cy: 732.23236

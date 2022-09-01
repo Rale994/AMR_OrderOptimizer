@@ -1,0 +1,5 @@
+/home/ratko/Desktop/AMR/build/CMakeFiles/rebuild_cache.dir
+/home/ratko/Desktop/AMR/build/CMakeFiles/edit_cache.dir
+/home/ratko/Desktop/AMR/build/CMakeFiles/RunAmrTests.dir
+/home/ratko/Desktop/AMR/build/CMakeFiles/OrderOptimizer.dir
+/home/ratko/Desktop/AMR/build/CMakeFiles/amr_basis.dir

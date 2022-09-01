@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RunAmrTests.dir/tests/amr_tests.cpp.o -o RunAmrTests  libamr_basis.a -lgtest -lpthread -lyaml-cpp 
